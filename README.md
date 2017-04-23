@@ -2,7 +2,7 @@
 # Crystal Lake Neighborhood Association
 Newton, MA
 
-Crystal Lake is a beautiful natural resource in the midst of a quiet residential neighborhood in Newton, MA. The Crystal Lake neighborhood has a long tradition as a family-friendly neighborhood that extends a warm welcome to visitors who come to enjoy the neighborhood and the Lake. The *Crystal Lake Neighborhood Association* (CLNA) is neighborhood group dedicated to the conservation of the Crystal Lake neighborhood and to the promotion of its family-friendly and welcoming tradition. 
+Crystal Lake is a beautiful natural resource in the midst of a quiet residential neighborhood in Newton, MA. The Crystal Lake neighborhood has a long tradition as a family-friendly neighborhood that extends a warm welcome to visitors who come to enjoy the neighborhood and the Lake. The *Crystal Lake Neighborhood Association* (CLNA) is a neighborhood group dedicated to the conservation of the Crystal Lake neighborhood and to the promotion of its family-friendly and welcoming tradition. 
 
 ### Statement
 
